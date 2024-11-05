@@ -1549,11 +1549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
+      "projectUniqueName": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
       "projectName": "ConsoleRandom",
-      "projectPath": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
+      "projectPath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\obj\\",
+      "outputPath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

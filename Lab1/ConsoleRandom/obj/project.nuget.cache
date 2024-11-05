@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bXieQS+Z3F8=",
+  "dgSpecHash": "LbfL4ln8luQ=",
   "success": true,
-  "projectFilePath": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
+  "projectFilePath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\ConsoleRandom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

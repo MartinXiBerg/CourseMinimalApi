@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CourseMinimalApi\\Lab1\\",
+  "WorkspaceRootPath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\lab1\\consolerandom\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\lab1\\consolerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\consolerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\lab1\\consolerandom\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\consolerandom\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\consolerandom\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\lab1\\consolerandom\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\consolerandom\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Runner.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Runner.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Runner.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Runner.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Runner.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Runner.cs",
               "RelativeToolTip": "ConsoleRandom\\Runner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T14:25:10.947Z",
               "EditorCaption": ""
@@ -61,37 +61,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CalculationService.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\CalculationService.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\CalculationService.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Services\\CalculationService.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\CalculationService.cs",
               "RelativeToolTip": "ConsoleRandom\\Services\\CalculationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:24:30.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T14:24:30.449Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RandomService.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\RandomService.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\RandomService.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Services\\RandomService.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\RandomService.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\RandomService.cs",
               "RelativeToolTip": "ConsoleRandom\\Services\\RandomService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:17:28.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T14:17:28.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Program.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
               "RelativeToolTip": "ConsoleRandom\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T14:11:41.965Z",
               "EditorCaption": ""

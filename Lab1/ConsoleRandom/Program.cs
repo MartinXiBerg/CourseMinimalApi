@@ -13,3 +13,5 @@ var rand = host.Services.GetRequiredService<IRandomService>();
 // Console.WriteLine($"My rand number is {rand.GetRandom()}");
 var runner = host.Services.GetRequiredService<ConsoleRandom.Runner>();
 runner.Run();
+
+//
