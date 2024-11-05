@@ -1,0 +1,2 @@
+# CourseMinimalApi
+CourseMinimalApi
