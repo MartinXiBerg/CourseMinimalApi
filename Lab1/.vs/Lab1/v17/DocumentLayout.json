@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\endpointfilters\\loggingendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\endpointfilters\\loggingendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\endpointfilters\\validfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\endpointfilters\\validfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\endpoints\\beerendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\endpoints\\beerendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\contracts\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\contracts\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\consolerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1735136D-EDC8-43BF-8EDC-E19A2C4FDCF3}|ConsoleRandom\\ConsoleRandom.csproj|solutionrelative:consolerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +66,106 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ValidFilter.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\EndpointFilters\\ValidFilter.cs",
+              "RelativeDocumentMoniker": "BeerStore\\EndpointFilters\\ValidFilter.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\EndpointFilters\\ValidFilter.cs",
+              "RelativeToolTip": "BeerStore\\EndpointFilters\\ValidFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:33:55.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggingEndpointFilter.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\EndpointFilters\\LoggingEndpointFilter.cs",
+              "RelativeDocumentMoniker": "BeerStore\\EndpointFilters\\LoggingEndpointFilter.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\EndpointFilters\\LoggingEndpointFilter.cs",
+              "RelativeToolTip": "BeerStore\\EndpointFilters\\LoggingEndpointFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:28:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeerEndpoint.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Endpoints\\BeerEndpoint.cs",
+              "RelativeDocumentMoniker": "BeerStore\\Endpoints\\BeerEndpoint.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Endpoints\\BeerEndpoint.cs",
+              "RelativeToolTip": "BeerStore\\Endpoints\\BeerEndpoint.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:13:15.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBeerService.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Contracts\\IBeerService.cs",
+              "RelativeDocumentMoniker": "BeerStore\\Contracts\\IBeerService.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Contracts\\IBeerService.cs",
+              "RelativeToolTip": "BeerStore\\Contracts\\IBeerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:08:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "BeerStore\\Services\\BeerService.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Services\\BeerService.cs",
+              "RelativeToolTip": "BeerStore\\Services\\BeerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:59:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "BeerStore\\Models\\Beer.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Models\\Beer.cs",
+              "RelativeToolTip": "BeerStore\\Models\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:56:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Program.cs",
+              "RelativeDocumentMoniker": "BeerStore\\Program.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Program.cs",
+              "RelativeToolTip": "BeerStore\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:52:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Runner.cs",
               "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Runner.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Runner.cs",
@@ -59,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CalculationService.cs",
               "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\CalculationService.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Services\\CalculationService.cs",
@@ -71,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "RandomService.cs",
               "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Services\\RandomService.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Services\\RandomService.cs",
@@ -83,13 +202,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleRandom\\Program.cs",
               "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ConsoleRandom\\Program.cs",
               "RelativeToolTip": "ConsoleRandom\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T14:11:41.965Z",
               "EditorCaption": ""
