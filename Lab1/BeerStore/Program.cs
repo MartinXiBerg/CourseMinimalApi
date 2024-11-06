@@ -43,9 +43,9 @@ internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary
 }
 #endif
 
-using BeerStore.Contracts;
-using BeerStore.Endpoints;
-using BeerStore.Services;
+using BeerModel.Contracts;
+using BeerModel.Endpoints;
+using BeerModel.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

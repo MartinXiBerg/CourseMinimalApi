@@ -1,6 +1,6 @@
-﻿using BeerStore.Models;
+﻿using BeerModel.Models;
 
-namespace BeerStore.Contracts
+namespace BeerModel.Contracts
 {
   public interface IBeerService
   {

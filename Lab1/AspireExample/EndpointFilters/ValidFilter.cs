@@ -1,6 +1,6 @@
-﻿using BeerStore.Models;
+﻿using BeerModel.Models;
 
-namespace BeerStore.EndpointFilters;
+namespace BeerModel.EndpointFilters;
 
 
 public class ValidFilter : IEndpointFilter

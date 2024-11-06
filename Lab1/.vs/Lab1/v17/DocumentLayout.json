@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\viewerofbeer\\components\\pages\\beer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|solutionrelative:viewerofbeer\\components\\pages\\beer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\viewerofbeer\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|solutionrelative:viewerofbeer\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\viewerofbeer\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|solutionrelative:viewerofbeer\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}|Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\lab1.servicedefaults\\lab1.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}|Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj|solutionrelative:lab1.servicedefaults\\lab1.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF980CDD-865B-47DD-A632-A80470D1E424}|Lab1.AppHost\\Lab1.AppHost.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\lab1.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF980CDD-865B-47DD-A632-A80470D1E424}|Lab1.AppHost\\Lab1.AppHost.csproj|solutionrelative:lab1.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2A61024-18F1-4905-98CE-C1E4C27B4193}|AspireExample\\AspireExample.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\aspireexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A61024-18F1-4905-98CE-C1E4C27B4193}|AspireExample\\AspireExample.csproj|solutionrelative:aspireexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\beerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8966A83F-DFB0-4481-A713-57A88B70C018}|BeerStore\\BeerStore.csproj|solutionrelative:beerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|c:\\courseminimalapi\\courseminimalapi\\lab1\\viewerofbeer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83045F4D-D248-4A85-AC27-954A06005594}|ViewerOfBeer\\ViewerOfBeer.csproj|solutionrelative:viewerofbeer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1.AppHost\\Program.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.AppHost\\Program.cs",
-              "RelativeToolTip": "Lab1.AppHost\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:50:37.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Program.cs",
-              "RelativeDocumentMoniker": "BeerStore\\Program.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\BeerStore\\Program.cs",
-              "RelativeToolTip": "BeerStore\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "ViewerOfBeer\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Services\\ApiClient.cs",
+              "RelativeToolTip": "ViewerOfBeer\\Services\\ApiClient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:50:00.587Z",
+              "WhenOpened": "2024-11-06T08:31:50.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ViewerOfBeer\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ViewerOfBeer\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:38:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\AspireExample\\Program.cs",
-              "RelativeDocumentMoniker": "AspireExample\\Program.cs",
-              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\AspireExample\\Program.cs",
-              "RelativeToolTip": "AspireExample\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.AppHost\\Program.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.AppHost\\Program.cs",
+              "RelativeToolTip": "Lab1.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:49:48.138Z",
+              "WhenOpened": "2024-11-06T08:34:03.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab1.ServiceDefaults",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj",
+              "RelativeToolTip": "Lab1.ServiceDefaults\\Lab1.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T08:33:06.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beer.razor",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Components\\Pages\\Beer.razor",
+              "RelativeDocumentMoniker": "ViewerOfBeer\\Components\\Pages\\Beer.razor",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Components\\Pages\\Beer.razor",
+              "RelativeToolTip": "ViewerOfBeer\\Components\\Pages\\Beer.razor",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:31:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Program.cs",
+              "RelativeDocumentMoniker": "ViewerOfBeer\\Program.cs",
+              "ToolTip": "C:\\CourseMinimalApi\\CourseMinimalApi\\Lab1\\ViewerOfBeer\\Program.cs",
+              "RelativeToolTip": "ViewerOfBeer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:31:43.338Z",
               "EditorCaption": ""
             }
           ]

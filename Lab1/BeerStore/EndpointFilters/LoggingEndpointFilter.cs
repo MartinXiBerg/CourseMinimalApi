@@ -1,4 +1,4 @@
-﻿namespace BeerStore.EndpointFilters;
+﻿namespace BeerModel.EndpointFilters;
 
 public class LoggingEndpointFilter :IEndpointFilter
 {

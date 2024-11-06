@@ -1,4 +1,4 @@
-﻿namespace BeerStore.Models
+﻿namespace BeerModel.Models
 {
   public class Beer
   {

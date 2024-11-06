@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.AppHost", "Lab1.AppHos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.ServiceDefaults", "Lab1.ServiceDefaults\Lab1.ServiceDefaults.csproj", "{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerOfBeer", "ViewerOfBeer\ViewerOfBeer.csproj", "{83045F4D-D248-4A85-AC27-954A06005594}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BeerModel", "BeerModel\BeerModel.shproj", "{538B73D0-31EA-4C63-ABA3-F113D2D49058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +43,17 @@ Global
 		{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30088A85-0A93-4BC4-9828-4D5D5C80B0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83045F4D-D248-4A85-AC27-954A06005594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83045F4D-D248-4A85-AC27-954A06005594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83045F4D-D248-4A85-AC27-954A06005594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83045F4D-D248-4A85-AC27-954A06005594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		BeerModel\BeerModel.projitems*{538b73d0-31ea-4c63-aba3-f113d2d49058}*SharedItemsImports = 13
+		BeerModel\BeerModel.projitems*{83045f4d-d248-4a85-ac27-954a06005594}*SharedItemsImports = 5
+		BeerModel\BeerModel.projitems*{8966a83f-dfb0-4481-a713-57a88b70c018}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal

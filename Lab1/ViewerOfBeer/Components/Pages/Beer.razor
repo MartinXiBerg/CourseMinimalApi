@@ -1,0 +1,62 @@
+﻿@page "/beer"
+@rendermode InteractiveServer
+@using BeerModel.Models;
+@inject Services.ApiClient apiClient;
+
+<h3>Beer</h3>
+
+<div>
+  <ul>
+
+
+
+
+    @foreach (var beer in _beers)
+    {
+      <li>[@beer.Id] @beer.Name @beer.Taste </li>
+    }
+  </ul>
+</div>
+<div>
+  <button class="btn btn-primary" @onclick="AddBeer">Noch ein Bier!</button>
+</div>
+<div>
+  <input type="text" name="Name des Biers" value="@myBeer.Name">
+  <input type="text" name="Wie Schmeckt es ?" value="@myBeer.Taste">
+  <button class="btn btn-primary" @onclick="(() => MyBeer(myBeer))">Mein Bier!</button> 
+</div>
+
+@code {
+  private List<BeerModel.Models.Beer> _beers = [];
+
+  private BeerModel.Models.Beer myBeer = new (){Name = "Mohren", Taste = "stark"};
+
+
+
+  protected override async Task OnInitializedAsync()
+  {
+    // Use the self-made API client
+    // _books = await api.GetBooksAsync();
+
+    _beers = await apiClient.GetBeerAsync() ?? [];   
+    // {
+    //     config.QueryParameters.TitleFilter = "Fellowship";
+    //     config.QueryParameters.AuthorFilter = "Tolkien";
+    //   }) ?? [];
+    //   _bookWithId2 = await apiClient.Books[2].GetAsync();
+  }
+  private async Task AddBeer(MouseEventArgs e)
+  {
+    await apiClient.SetNewBeer();
+    _beers = await apiClient.GetBeerAsync() ?? [];
+
+
+  }
+  private async Task MyBeer(BeerModel.Models.Beer beer)
+  {
+    await apiClient.SetMyBeer(beer);
+    // _beers.Add(beer);
+
+    _beers = await apiClient.GetBeerAsync() ?? [];
+  }
+}

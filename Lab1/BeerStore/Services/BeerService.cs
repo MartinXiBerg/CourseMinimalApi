@@ -1,7 +1,7 @@
-﻿using BeerStore.Contracts;
-using BeerStore.Models;
+﻿using BeerModel.Contracts;
+using BeerModel.Models;
 
-namespace BeerStore.Services
+namespace BeerModel.Services
 {
   public class BeerService : IBeerService
   {

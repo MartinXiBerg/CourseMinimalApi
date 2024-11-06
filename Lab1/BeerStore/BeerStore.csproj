@@ -10,4 +10,6 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0-rc.2.24474.3" />
   </ItemGroup>
 
+  <Import Project="..\BeerModel\BeerModel.projitems" Label="Shared" />
+
 </Project>

@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AspireExample\AspireExample.csproj" />
+    <ProjectReference Include="..\ViewerOfBeer\ViewerOfBeer.csproj" />
   </ItemGroup>
 
 </Project>

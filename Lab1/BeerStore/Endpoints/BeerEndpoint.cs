@@ -1,8 +1,8 @@
-﻿using BeerStore.Contracts;
-using BeerStore.EndpointFilters;
-using BeerStore.Models;
+﻿using BeerModel.Contracts;
+using BeerModel.EndpointFilters;
+using BeerModel.Models;
 
-namespace BeerStore.Endpoints;
+namespace BeerModel.Endpoints;
 
 internal static class BeerEndpoint
 {
