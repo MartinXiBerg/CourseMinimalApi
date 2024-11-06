@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------------------
+-- WebApi
+docker run -p 80:8080 --rm -d --name beer-service beer-service:v1.0.0
+
+------------------------------------------------------------------------------------------
+-- MSSQL
+docker pull mcr.microsoft.com/mssql/server:2022-latest
+
+
+-- ohne volume
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Pa$$w0rd" -p 14333:1433 --name mssql1 --hostname mssql1 -d mcr.microsoft.com/mssql/server:2022-latest
+
+docker container logs mssql1
+
+docker volume create 
+
+docker volume create db_storage
+
+-- mit volume
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Pabbw0rd" -p 14333:1433 --name mssql1 --hostname mssql1 -v db_storage:/var/opt/mssql -d mcr.microsoft.com/mssql/server:2022-latest
+
+-- list all container
+docker container ls -a
+
+-- start stop MSSQL container
+docker stop mssql1
+
+docker start mssql1
