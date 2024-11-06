@@ -27,3 +27,13 @@ CourseMinimalApi
 - [Grundlagen Layout](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-8.0)
 - [Hosting on Nginx](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-8.0&tabs=linux-ubuntu)
 - [Hosting on Docker](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/?view=aspnetcore-9.0)
+
+### Kiota
+CLI Tool um Rest Schnittstelle herzustellen
+- [Using the Kiota tool](https://learn.microsoft.com/en-us/openapi/kiota/using)
+- [Git für Kiota](https://github.com/microsoft/kiota)
+
+### Alterative zu Postman
+- [Project]([https://hoppscotch.com/download)](https://hoppscotch.com/download](https://docs.hoppscotch.io/documentation/clients/desktop)
+- [Opinion Postman vs. Hopsscotch](https://apidog.com/blog/postman-vs-hoppscotch/)
+- [Download Program](https://hoppscotch.com/download)](https://hoppscotch.com/download)
