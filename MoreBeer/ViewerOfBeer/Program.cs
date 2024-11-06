@@ -8,7 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 // add beer api
 builder.Services.AddHttpClient<ApiClient>(options =>
 {
-  options.BaseAddress = new Uri("https://localhost:7115");
+  options.BaseAddress = new Uri("https://localhost:7115"); // for local debugging
+  // options.BaseAddress = new Uri("http://localhost:80"); // for container debuggind
 });
 
 // Add services to the container.

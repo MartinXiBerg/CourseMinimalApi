@@ -57,7 +57,7 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 app.MapOpenApi();
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.MapGet("/", () => "Welcome to the world of BEER api");
 app.MapBeersEndpoints();

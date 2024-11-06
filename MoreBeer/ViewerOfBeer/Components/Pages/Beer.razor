@@ -4,7 +4,11 @@
 @inject Services.ApiClient apiClient;
 
 <h3>Beer</h3>
-
+<div>
+  <input type="text" name="Name des Biers" value="@myBeer.Name">
+  <input type="text" name="Wie Schmeckt es ?" value="@myBeer.Taste">
+  <button class="btn btn-primary" @onclick="(() => MyBeer(myBeer))">Mein Bier!</button>
+</div>
 <div>
   <ul>
 
@@ -20,11 +24,7 @@
 <div>
   <button class="btn btn-primary" @onclick="AddBeer">Noch ein Bier!</button>
 </div>
-<div>
-  <input type="text" name="Name des Biers" value="@myBeer.Name">
-  <input type="text" name="Wie Schmeckt es ?" value="@myBeer.Taste">
-  <button class="btn btn-primary" @onclick="(() => MyBeer(myBeer))">Mein Bier!</button> 
-</div>
+
 
 @code {
   private List<BeerModel.Models.Beer> _beers = [];
