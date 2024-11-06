@@ -24,5 +24,6 @@ CourseMinimalApi
 - https://www.c-sharpcorner.com/article/understanding-task-vs-valuetask/
 - https://dotnettutorials.net/lesson/valuetask-in-csharp/?utm_content=cmp-true
 ### Razor
-- (Grundlagen) https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-8.0
-- (Hosting on Nginx) https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-8.0&tabs=linux-ubuntu
+- [Grundlagen Layout] (https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-8.0)
+- [Hosting on Nginx] (https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-8.0&tabs=linux-ubuntu)
+- [Hosting on Docker] (https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/?view=aspnetcore-9.0)
