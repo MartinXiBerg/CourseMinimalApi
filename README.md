@@ -34,6 +34,6 @@ CLI Tool um Rest Schnittstelle herzustellen
 - [Git für Kiota](https://github.com/microsoft/kiota)
 
 ### Alterative zu Postman
-- [Project](https://hoppscotch.com/download)  (https://hoppscotch.com/download](https://docs.hoppscotch.io/documentation/clients/desktop)
+- [Project](https://hoppscotch.com/download) 
 - [Opinion Postman vs. Hopsscotch](https://apidog.com/blog/postman-vs-hoppscotch/)
 - [Download Program](https://hoppscotch.com/download)](https://hoppscotch.com/download)
