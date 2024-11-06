@@ -10,7 +10,7 @@ CourseMinimalApi
 - [SericesNov](https://github.com/CNILearn/servicesnov2024)
 - [CodeBreaker - Example of book <Pragmatic Microservies with C# and Azure>](https://github.com/CodebreakerApp)
 - [ORM Course](https://github.com/MartinXiBerg/OrmCourse)
-- [Git of book <Pragmatic Microservies with C# and Azure>](URL=https://github.com/PacktPublishing/Pragmatic-Microservices-with-CSharp-and-Azure)
+- [Git of book <Pragmatic Microservies with C# and Azure> ](https://github.com/PacktPublishing/Pragmatic-Microservices-with-CSharp-and-Azure)
 ### GraphQL
 - [.NET Library for GraphQL Server](https://entwickler.de/dotnet/graphql-backend-dotnet-hot-chocolate)
 - [REST API Best Practices](https://restfulapi.net/rest-api-best-practices/)
