@@ -18,3 +18,8 @@
 ## Docker Compose
 - Um mehrere Images zusammenzufügen
 - Docker network [Beschreibung](https://docs.docker.com/engine/network/)
+- Aspirate , Aspir8 :.NET Tool für "Docker Compose" [Beschreibung](https://medium.com/@josephsims1/aspire-aspi8-deploy-microservices-effortlessly-with-cli-no-docker-or-yaml-needed-f30b58443107)
+
+## Issue Docker Container mit https
+- [Asp.Net-Core Application in docker over https](https://stackoverflow.com/questions/60724704/asp-net-core-application-in-docker-over-https)
+- [Windows using Linux containers](https://learn.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-3.1)
