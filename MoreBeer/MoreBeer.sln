@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35424.110 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreBeer", "MoreBeer\MoreBeer.csproj", "{8F867A5E-3123-4183-ADAC-82402BE37E54}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BeerModel", "BeerModel\BeerModel.shproj", "{538B73D0-31EA-4C63-ABA3-F113D2D49058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerStore", "BeerStore\BeerStore.csproj", "{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerOfBeer", "ViewerOfBeer\ViewerOfBeer.csproj", "{55A53595-FCCD-4889-BF8A-A76FFCDFA297}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3} = {F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F867A5E-3123-4183-ADAC-82402BE37E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F867A5E-3123-4183-ADAC-82402BE37E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F867A5E-3123-4183-ADAC-82402BE37E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F867A5E-3123-4183-ADAC-82402BE37E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B6A225-46FA-44C7-ABA5-FBA3F2C9BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A53595-FCCD-4889-BF8A-A76FFCDFA297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A53595-FCCD-4889-BF8A-A76FFCDFA297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A53595-FCCD-4889-BF8A-A76FFCDFA297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A53595-FCCD-4889-BF8A-A76FFCDFA297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		BeerModel\BeerModel.projitems*{538b73d0-31ea-4c63-aba3-f113d2d49058}*SharedItemsImports = 13
+		BeerModel\BeerModel.projitems*{55a53595-fccd-4889-bf8a-a76ffcdfa297}*SharedItemsImports = 5
+		BeerModel\BeerModel.projitems*{f5b6a225-46fa-44c7-aba5-fba3f2c9bfb3}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal
