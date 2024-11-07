@@ -41,3 +41,8 @@ CLI Tool um Rest Schnittstelle herzustellen
 - [From Console to Service](https://stackoverflow.com/questions/7764088/net-console-application-as-windows-service)
 - [.NET 6.0+ services](https://csharp.christiannagel.com/2022/03/22/windowsservice-2/)
 - [Services with .NET framework](https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/)
+
+## Telemetry Daten (Opentelemetry / checkmk)
+- [Open Telemetry](https://opentelemetry.io/docs/)
+- [CheckMk vs. Opentelemetry](https://stackshare.io/stackups/checkmk-vs-opentelemetry)
+- [CheckMk für OpenShift](https://docs.checkmk.com/latest/en/monitoring_openshift.html)
