@@ -1,6 +1,6 @@
 # Container
 - Docker Desktop vs. Podman
-- [Dapr.io](docker pull registry:2)
+- [Dapr.io](https://docs.dapr.io/concepts/overview/#sidecar-architecture)
 
 ## Commands für Docker
 - [Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
