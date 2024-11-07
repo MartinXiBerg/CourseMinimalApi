@@ -25,7 +25,11 @@
 ## Issue Docker Container mit https
 - [Asp.Net-Core Application in docker over https](https://stackoverflow.com/questions/60724704/asp-net-core-application-in-docker-over-https)
 - [Windows using Linux containers](https://learn.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-3.1)
+- [Create a Docker Container with project command **Publish...** ](https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio)
 
 ## Kubernetes
 - [Kubernetes Event-driven Autoscaling](https://keda.sh/)
 - Docker Desktop kann ein Cubernetes Cluster zum Ausprobieren aufsetzen
+- Expose an application running in your cluster behind a single outward-facing endpoint [Service](https://kubernetes.io/docs/concepts/services-networking/service/) 
+  - Oft verwendet: [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+  > Ingress controller ist kompliziert zu konfigurieren
