@@ -37,4 +37,7 @@ CLI Tool um Rest Schnittstelle herzustellen
 - [Project Hopsscotch](https://hoppscotch.com/download) 
 - [Opinion Postman vs. Hopsscotch](https://apidog.com/blog/postman-vs-hoppscotch/)
 - [Download Program](https://hoppscotch.com/download)
+## Serices
 - [From Console to Service](https://stackoverflow.com/questions/7764088/net-console-application-as-windows-service)
+- [.NET 6.0+ services](https://csharp.christiannagel.com/2022/03/22/windowsservice-2/)
+- [Services with .NET framework](https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/)
