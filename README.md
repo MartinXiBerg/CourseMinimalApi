@@ -1,3 +1,6 @@
+> Info zu Syntax:  Markdown Guideline see [Markdown](https://www.markdownguide.org/basic-syntax) <br/>
+> Notepad++ plugin https://superuser.com/questions/586177/how-to-use-markdown-in-notepad 
+
 # CourseMinimalApi
 CourseMinimalApi
 
