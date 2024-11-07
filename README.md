@@ -34,6 +34,7 @@ CLI Tool um Rest Schnittstelle herzustellen
 - [Git für Kiota](https://github.com/microsoft/kiota)
 
 ### Alterative zu Postman
-- [Project](https://hoppscotch.com/download) 
+- [Project Hopsscotch](https://hoppscotch.com/download) 
 - [Opinion Postman vs. Hopsscotch](https://apidog.com/blog/postman-vs-hoppscotch/)
-- [Download Program](https://hoppscotch.com/download)](https://hoppscotch.com/download)
+- [Download Program](https://hoppscotch.com/download)
+- [From Console to Service](https://stackoverflow.com/questions/7764088/net-console-application-as-windows-service)
